@@ -2,7 +2,7 @@
 
 Hello! I’m Marie-Philippe Gill.
 
-I am a content creator on [Instagram](https://instagram.com/girlknowstech), [YouTube](https://youtube.com/c/girlknowstech), and my blog [GirlKnowsTech.com](https://girlknowstech.com), that you’re reading now!
+I am a content creator on [Instagram](https://instagram.com/girlknowstech), [YouTube](https://youtube.com/c/girlknowstech), and my blog [GirlKnowsTech.com](https://girlknowstech.com)!
 
 Professionally, I will soon be looking to work full-time as a machine learning engineer. I just graduated from software engineering at École de Technologie Supérieure (ÉTS) in Montreal. I also have a college degree (DEC) in Computer Science. I am currently working on my master’s thesis.
 
