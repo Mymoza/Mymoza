@@ -4,9 +4,9 @@ Hello! I’m Marie-Philippe Gill.
 
 I am a content creator on [Instagram](https://instagram.com/girlknowstech), [YouTube](https://youtube.com/c/girlknowstech), and my blog [GirlKnowsTech.com](https://girlknowstech.com)!
 
-Professionally, I will soon be looking to work full-time as a machine learning engineer. I just graduated from software engineering at École de Technologie Supérieure (ÉTS) in Montreal. I also have a college degree (DEC) in Computer Science. I am currently working on my master’s thesis.
+Professionally, I work full-time as a machine learning engineer. I graduated from software engineering and a Master (M. Sc.) at École de Technologie Supérieure (ÉTS) in Montreal. I also have a college degree (DEC) in Computer Science.
 
-I recently completed an internship at [Johns Hopkins University](https://girlknowstech.com/research-internship-jhu/). My research is on using smartwatches to predict the severity of Parkinson’s Disease symptoms, the [repo](https://github.com/Mymoza/BeatPD-CLSP-JHU) is public.
+I completed an internship at [Johns Hopkins University](https://girlknowstech.com/research-internship-jhu/). My research was on using smartwatches to predict the severity of Parkinson’s Disease symptoms, the [repo](https://github.com/Mymoza/BeatPD-CLSP-JHU) is public.
 
 Pronouns: She & Her
 
