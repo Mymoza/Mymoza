@@ -4,7 +4,7 @@ Hello! I’m Marie-Philippe Gill.
 
 I am a content creator on [Instagram](https://instagram.com/girlknowstech), [YouTube](https://youtube.com/c/girlknowstech), and my blog [GirlKnowsTech.com](https://girlknowstech.com)!
 
-Professionally, I work full-time as a machine learning engineer. I graduated from software engineering and a Master (M. Sc.) at École de Technologie Supérieure (ÉTS) in Montreal. I also have a college degree (DEC) in Computer Science.
+Working as an AI Engineer at [Distyl](https://distyl.ai). I graduated from software engineering and a Master (M. Sc.) at École de Technologie Supérieure (ÉTS) in Montreal. I also have a college degree (DEC) in Computer Science.
 
 I completed an internship at [Johns Hopkins University](https://girlknowstech.com/research-internship-jhu/). My research was on using smartwatches to predict the severity of Parkinson’s Disease symptoms, the [repo](https://github.com/Mymoza/BeatPD-CLSP-JHU) is public.
 
